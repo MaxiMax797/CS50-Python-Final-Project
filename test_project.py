@@ -112,7 +112,7 @@ def test_logarithm_base2():
 def test_mtp_tables_ps():
     print("Testing mtp_tables_ps:\n")
 
-    # Test case 1
+    
     print("Test case 1: mtp_tables_ps(2, 5)")
     mtp_tables_ps(2, 5)
     print("Expected Output:\n")
@@ -122,7 +122,7 @@ def test_mtp_tables_ps():
     print("2 x 4 = 8")
     print("2 x 5 = 10\n")
 
-    # Test case 2
+    
     print("Test case 2: mtp_tables_ps(4, 3)")
     mtp_tables_ps(4, 3)
     print("Expected Output:\n")
@@ -130,7 +130,7 @@ def test_mtp_tables_ps():
     print("4 x 2 = 8")
     print("4 x 3 = 12\n")
 
-    # Test case 3
+    
     print("Test case 3: mtp_tables_ps(0, 5)")
     mtp_tables_ps(0, 5)
     print("Expected Output:\n")
@@ -144,7 +144,7 @@ def test_mtp_tables_ps():
 def test_mtp_tables_ng():
     print("Testing mtp_tables_ng:\n")
 
-    # Test case 1
+    
     print("Test case 1: mtp_tables_ng(3, -5)")
     mtp_tables_ng(3, -5)
     print("Expected Output:\n")
@@ -154,7 +154,7 @@ def test_mtp_tables_ng():
     print("3 x -4 = -12")
     print("3 x -5 = -15\n")
 
-    # Test case 2
+    
     print("Test case 2: mtp_tables_ng(-2, -4)")
     mtp_tables_ng(-2, -4)
     print("Expected Output:\n")
@@ -163,7 +163,7 @@ def test_mtp_tables_ng():
     print("-2 x -3 = 6")
     print("-2 x -4 = 8\n")
 
-    # Test case 3
+    
     print("Test case 3: mtp_tables_ng(5, -3)")
     mtp_tables_ng(5, -3)
     print("Expected Output:\n")
