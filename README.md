@@ -1,6 +1,5 @@
 # Python Math Operations Calculator
 
-#### Video Demo: https://youtu.be/lmRzhocWXGg
 #### Description
 This scientific calculator simulator offers a user-friendly command-line interface for performing a range of math functions,  implemented in Python, using the math library.
 
@@ -103,6 +102,7 @@ Result: 30.0
 ## Feedback and Contributions
 Any feedback, bug reports and contributions are welcome! If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request on the Github repository. 
 
+Removed author infos & video URL
 ## Disclaimer
 This project is for educational or recreational purposes only. The author is not responsible for any consequences resulting from the use or misuse of this software.
 
