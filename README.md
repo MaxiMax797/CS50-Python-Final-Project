@@ -106,8 +106,4 @@ Any feedback, bug reports and contributions are welcome! If you encounter any is
 ## Disclaimer
 This project is for educational or recreational purposes only. The author is not responsible for any consequences resulting from the use or misuse of this software.
 
-## Author
-Name: Goga Cristian Maximilian
-GitHub Username: MaxiMax797
-email address: maxithegreat123@gmail.com
  
