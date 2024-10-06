@@ -97,7 +97,7 @@ Result: 30.0
 
 ## Credits
 - This project was implemented using the math library for a few functions
-- The application logic and implementation were created by: Maximilian.
+- The application logic and implementation were created by Max.
 
 ## Feedback and Contributions
 Any feedback, bug reports and contributions are welcome! If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request on the Github repository. 
